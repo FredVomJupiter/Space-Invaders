@@ -1,4 +1,4 @@
-# Space-Invaders
+# Space-Invaders step-by-step tutorial that i followed to learn fundamental concepts in python
 
 A simple Space Invaders game in python using the turtle module, the pygame module and basic concepts of python coding.
 
